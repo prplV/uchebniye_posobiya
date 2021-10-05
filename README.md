@@ -1,3 +1,3 @@
 # uchebniye_posobiya
-progy
+progy \n
 vse programmy s seminarov po technologiyam programmirovaniya...
